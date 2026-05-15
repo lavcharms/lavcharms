@@ -24,7 +24,7 @@
 
 <div align="center">
 
-**Frontend Developer** &nbsp;·&nbsp; 🕸️ Building clean, fast & beautiful UIs &nbsp;·&nbsp; React · Next.js · TypeScript
+**Full-Stack Developer** &nbsp;·&nbsp; 🕸️ Building clean, fast & beautiful UIs &nbsp;·&nbsp; React · Next.js · TypeScript
 
 🧵 Currently working on **[vlooms](https://github.com/lavcharms/vlooms)** — marketing site for a heritage fabric brand (Vedanta Home Interior, est. 1976)
 
