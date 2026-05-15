@@ -9,7 +9,7 @@
 <div align="center">
 
 <!-- ── HEADER ─────────────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e4d6b,50:3a5f80,100:c03660&height=200&section=header&text=LAVANYA%20CHANDEL&fontSize=42&fontColor=f5f0eb&fontAlignY=38&desc=@lavcharms%20%E2%80%94%20Frontend%20Developer%20%F0%9F%95%B8%EF%B8%8F&descAlignY=58&descColor=e8a0bf&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e4d6b,50:3a5f80,100:c03660&height=200&section=header&text=LAVANYA%20CHANDEL&fontSize=42&fontColor=f5f0eb&fontAlignY=38&desc=@lavcharms%20%E2%80%94%20Full-Stack%20Developer%20%F0%9F%95%B8%EF%B8%8F&descAlignY=58&descColor=e8a0bf&animation=fadeIn" width="100%"/>
 
 <!-- ── BADGE ROW ───────────────────────────────────────────── -->
 ![Ghost-Spider](https://img.shields.io/badge/%E2%AC%A1%20GHOST--SPIDER-2e4d6b?style=for-the-badge&labelColor=1e3550&color=c03660)
@@ -93,29 +93,25 @@ Built with **Vanilla JavaScript · HTML · CSS**
 
 ---
 
-<!-- ── CONTRIBUTION SECTION ───────────────────────────────── -->
-<!--
-     NOTE: The stats cards below use github-readme-stats (a free service).
-     They will render properly once your repos have commits & activity.
-     If they still look broken after pushing code, try these steps:
-       1. Open the URL directly in your browser to check if the service is up
-       2. Replace YOUR_VERCEL_TOKEN with your own deployment (see docs.github.com)
-     The snake animation requires a GitHub Action — setup instructions below.
--->
+<!-- ── GITHUB STATS ────────────────────────────────────────── -->
 
 <div align="center">
 
-## 📊 &nbsp;CONTRIBUTION WEB
-
-<!-- Stats card — renders once you have commit activity -->
-<img src="https://github-readme-stats.vercel.app/api?username=lavcharms&show_icons=true&theme=dark&bg_color=1e3550&title_color=e85090&icon_color=c03660&text_color=c8dce8&border_color=3a5f80&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<!-- Top languages card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavcharms&layout=compact&langs_count=6&theme=dark&bg_color=1e3550&title_color=e85090&text_color=c8dce8&border_color=3a5f80" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lavcharms&theme=dark&background=1e3550&ring=c03660&fire=e85090&currStreakLabel=f5f0eb&sideLabels=c8dce8&currStreakNum=f5f0eb&sideNums=c8dce8&border=c0366044" height="160"/>
 
 </div>
 
-<br/>
+---
+
+<!-- ── ACTIVITY GRAPH ──────────────────────────────────────── -->
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lavcharms&bg_color=1e3550&color=c8dce8&line=c03660&point=e85090&area=true&area_color=c0366033&hide_border=true" width="95%"/>
+
+</div>
+
+---
 
 <!-- ── QUOTE ──────────────────────────────────────────────── -->
 
