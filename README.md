@@ -105,13 +105,6 @@ Built with **Vanilla JavaScript · HTML · CSS**
 
 <!-- ── ACTIVITY GRAPH ──────────────────────────────────────── -->
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lavcharms&bg_color=1e3550&color=c8dce8&line=c03660&point=e85090&area=true&area_color=c0366033&hide_border=true" width="95%"/>
-
-</div>
-
----
 
 <!-- ── QUOTE ──────────────────────────────────────────────── -->
 
