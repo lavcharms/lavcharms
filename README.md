@@ -26,7 +26,7 @@
 
 **Full-Stack Developer** &nbsp;·&nbsp; 🕸️ Building clean, fast & beautiful UIs &nbsp;·&nbsp; React · Next.js · TypeScript
 
-🧵 Currently working on **[vlooms](https://github.com/lavcharms/vlooms)** — marketing site for a heritage fabric brand (Vedanta Home Interior, est. 1976)
+🧵 Currently working on **[techguitar](https://github.com/lavcharms/techguitar)** — guitar with no finger pain.
 
 💬 *"My code is like a web — catches everything before it falls."*
 
