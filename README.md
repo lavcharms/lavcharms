@@ -34,24 +34,8 @@
 
 ---
 
-<!-- ── SKILL MATRIX ────────────────────────────────────────── -->
 
-<div align="center">
 
-## 🕸️ &nbsp;SKILL MATRIX
-
-| Language / Tool | Level |
-|:---|:---|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-1e3550?style=flat-square&logo=javascript&logoColor=f5d76e) JavaScript | `████████████████░░░░` Intermediate |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-1e3550?style=flat-square&logo=typescript&logoColor=4a90d9) TypeScript | `██████████████░░░░░░` Intermediate |
-| ![React](https://img.shields.io/badge/React-1e3550?style=flat-square&logo=react&logoColor=61dafb) React | `██████████████░░░░░░` Intermediate |
-| ![Next.js](https://img.shields.io/badge/Next.js-1e3550?style=flat-square&logo=nextdotjs&logoColor=f5f0eb) Next.js | `████████████░░░░░░░░` Intermediate |
-| ![HTML](https://img.shields.io/badge/HTML5-1e3550?style=flat-square&logo=html5&logoColor=e85090) HTML5 | `████████████████░░░░` Intermediate |
-| ![CSS](https://img.shields.io/badge/CSS3-1e3550?style=flat-square&logo=css3&logoColor=3a8fc7) CSS3 | `████████████████░░░░` Intermediate |
-
-</div>
-
----
 
 <!-- ── PINNED PROJECTS ─────────────────────────────────────── -->
 
@@ -76,20 +60,23 @@ Built with **Next.js 15 · TypeScript · CSS**
 </td>
 <td width="50%">
 
-### 🦖 [DINOSAUR-GAME](https://github.com/lavcharms/DINOSAUR-GAME)
-> A browser-based dinosaur runner — because sometimes you gotta dodge the obstacles life throws at you.
+### 🎸 [techguitar](https://github.com/lavcharms/techguitar)
+> An AI-powered **air guitar** — play guitar without touching a single string. No finger pain, just vibes.
 
-Built with **Vanilla JavaScript · HTML · CSS**
+Built with **Python · MediaPipe · OpenCV**
 
-- Classic Chrome dino mechanics
-- Pure JS — no frameworks, no dependencies
-- Good old fun in a browser tab
+- Real-time hand gesture recognition via webcam
+- Maps finger positions to guitar chords & strums
+- Zero hardware needed — just your hands & a camera
+- ML model trained on custom gesture dataset
 
-![JavaScript](https://img.shields.io/badge/JavaScript-3a5f80?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3a5f80?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-c03660?style=flat-square) 🎵 [Try it out](https://github.com/lavcharms/techguitar)
 
 </td>
 </tr>
 </table>
+
+
 
 ---
 
