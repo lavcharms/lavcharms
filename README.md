@@ -24,7 +24,7 @@
 
 <div align="center">
 
-**Full-Stack Developer** &nbsp;·&nbsp; 🕸️ Building clean, fast & beautiful UIs &nbsp;·&nbsp; React · Next.js · TypeScript
+**Full-Stack Developer** &nbsp;·&nbsp; 🕸️ Building clean, fast & beautiful UIs &nbsp;·&nbsp; AI/ML · React · Next.js · TypeScript
 
 🧵 Currently working on **[techguitar](https://github.com/lavcharms/techguitar)** — guitar with no finger pain.
 
